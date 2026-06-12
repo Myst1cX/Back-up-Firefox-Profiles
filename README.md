@@ -7,6 +7,6 @@ To use:
 
 The file uses Powershell to create the archives. I created this for my own personal use and thought it might be useful to others.
 
-THE FORK MODIFIED THE PROFILE SOURCE AND BACKUP DESTINATION VALUES OF THE CONFIGURATION SECTION: 
-Profile source: C:\Users\photo\... → C:\Users\topol\... 
-Backup destination: D:\Data\Backups\Firefox → C:\Data\Backups\Firefox 
+THE FORK MODIFIED THE PROFILE SOURCE AND BACKUP DESTINATION VALUES OF THE CONFIGURATION SECTION:   
+Profile source: C:\Users\photo\... → C:\Users\topol\...   
+Backup destination: D:\Data\Backups\Firefox → C:\Data\Backups\Firefox   
